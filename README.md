@@ -1,1 +1,1 @@
-# basic-projects
+repository for making and practice basic skills
